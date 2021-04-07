@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 This is chapter3
 This is chapter3
+=======
+This is chapter3. Testing merge
+>>>>>>> e727bbbacb3cea3ac7526e3c3ff0c7194328a620
